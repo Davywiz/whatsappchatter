@@ -1,3 +1,3 @@
 # whatsappchatter
 
-Chat immediately with contacts  without saving them
+Chat immediately with contacts on whatsapp without saving them
